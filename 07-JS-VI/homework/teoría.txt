@@ -1,0 +1,6 @@
+* Funciones Callback
+
+Un Callback es cuando a una fución se le pasa como argumento otra función.
+Es importante que cuando se pasa como argumento no se coloquen los paréntesis al final, puesto que estaríamos invocándola.
+
+

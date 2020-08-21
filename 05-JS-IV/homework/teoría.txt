@@ -1,0 +1,22 @@
+	* Objetos. Es una colección de propiedades, y una propiedad es una asociación entre un nombre (key) y un valor (value).
+    Se pueden definir de varias formas:
+        var obj1 = {}; // o bien como
+        var obj2 = new Object();
+    
+    Podemos acceder a las propieades de dos formas:
+
+        var obj = {
+            prop: 'valor',
+        };
+        
+        console.log(obj.prop)       // 'valor'
+        console.log(obj['prop'])    // 'valor'
+
+        para eliminar una propiedad usamos el keyword delete.
+
+        delete obj.prop;
+
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes

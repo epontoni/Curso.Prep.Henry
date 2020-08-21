@@ -1,0 +1,6 @@
+Un array es una estructura de datos.
+Podemos guardar en un array múltiples elementos (de distinto tipo) y acceder a ellos mediante un
+subíndice (comenzando desde el cero).
+
+Los array tienen varios métodos con los cuales podemos trabajar. Por ejemplo el método .length nos da la cantidad de elementos del mismo.
+Revisar la documentación de javascript para conocer otros métodos.

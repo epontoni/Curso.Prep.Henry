@@ -1,0 +1,5 @@
+
+* `for` El bucle for sirve para repetir un fragmento de código las veces que necesitemos o hasta que se cumple una condición preestablecida.
+Su declaración es:
+for(var i=0; i<10; i++) {se repite por i vez.} Si queremos salir de este bucle, podemos hacerlo mediante la instrucción return.
+* `&&`, `||`, `!` Estos son operadores lógicos: conjunción, disyunción y negación.

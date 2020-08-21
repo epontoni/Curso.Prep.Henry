@@ -1,0 +1,4 @@
+* `prototype` Un prototype es una propiedad (objeto) que se hereda a todos los objetos de modo de compartir funcionalidad.
+Estas props y métodos del prototipo pueden sobreescribirse para que la funcionalidad se adapte mejor al objeto que hereda el protitipo del objeto padre.
+
+* _Constructors_ (de Clases) Un constructor de clase es básicamente una función que inicializa (construye) el objeto asignando un estado inicial a sus propiedades y define sus métodos.

@@ -1,0 +1,5 @@
+	* Variables: es una región (celda) de la memoria que reservamos bajo un nombre (que no puede ser una palabra reservada del lenguaje) para guardar información que vayamos necesitando en nuestro programa.
+	* Strings: Es un tipo de dato (cadena de caracteres), se escribe entre comillas simples o dobles
+	* Funciones (argumentos, `return`). Una función es una rutina de código que llamaremos mediante el nombre que le asignemos cada vez que la necesitamos. En la llamada podemos pasarle opcionalmente argumentos para que opere con ellos. Toda función debe retornar algo, este valor se especifica mediante la instrucción 'return', de no especificarlo retornará undefined.
+	* Declaraciones `if`. if es un condicional, se declara: if (condición) { ejecutar tal cosa}
+	* Valores booleanos (`true`, `false`) los valores booleanos sirven para generar estados internos en la app y realizar operaciones lógicas.
